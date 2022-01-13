@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naman995
 - 👀 I’m interested in c++
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me singhmahender3016@gamil.com
 
